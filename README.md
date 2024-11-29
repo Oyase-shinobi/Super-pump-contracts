@@ -11,7 +11,7 @@ cast send --rpc-url https://rpc.api.moonbase.moonbeam.network \
     '"MyToken"' \
     '"MTK"'
 ```
-
+               
 ## Approve Token
 ```bash
 cast send --rpc-url https://rpc.api.moonbase.moonbeam.network \
